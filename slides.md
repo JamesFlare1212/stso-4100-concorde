@@ -1,6 +1,6 @@
 ---
 theme: apple-basic
-image: https://cover.sli.dev
+image: luca-bravo-SgtU7sK6oP4-unsplash.jpg
 drawings:
   persist: false
 mdc: true
@@ -10,6 +10,8 @@ transition: slide-left
 ---
 
 # The Supersonic Race
+
+![](./img/luca-bravo-SgtU7sK6oP4-unsplash.jpg){.hidden}
 
 Peaks of Technology
 
@@ -54,9 +56,11 @@ People see the potential of commercial supersonic airline.
 
 ---
 layout: image
-image: img/speed-vs-revenue-and-cost.png
+image: speed-vs-revenue-and-cost.png
 transition: slide-up
 ---
+
+![](./img/speed-vs-revenue-and-cost.png){.hidden}
 
 ---
 level: 2
