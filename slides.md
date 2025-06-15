@@ -1,6 +1,6 @@
 ---
 theme: apple-basic
-image: img/luca-bravo-SgtU7sK6oP4-unsplash.jpg
+image: https://cover.sli.dev
 drawings:
   persist: false
 mdc: true
@@ -10,8 +10,6 @@ transition: slide-left
 ---
 
 # The Supersonic Race
-
-![](./img/luca-bravo-SgtU7sK6oP4-unsplash.jpg){.hidden}
 
 Peaks of Technology
 
@@ -59,8 +57,6 @@ layout: image
 image: img/speed-vs-revenue-and-cost.png
 transition: slide-up
 ---
-
-![](./img/speed-vs-revenue-and-cost.png){.hidden}
 
 ---
 level: 2
