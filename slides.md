@@ -297,8 +297,6 @@ transition: slide-up
 - **Safety Redundancy**: Fuel isolation layers added post-2000
 - **Policy Avoidance**: Restricted to transatlantic routes
 
-![](./img/concorde-safety-modifications.jpg){width=650px}
-
 ---
 layout: section
 level: 1
