@@ -11,6 +11,8 @@ transition: slide-left
 
 # The Supersonic Race
 
+![](./img/luca-bravo-SgtU7sK6oP4-unsplash.jpg){.hidden}
+
 Peaks of Technology
 
 <div class="absolute bottom-10">
@@ -57,6 +59,8 @@ layout: image
 image: img/speed-vs-revenue-and-cost.png
 transition: slide-up
 ---
+
+![](./img/speed-vs-revenue-and-cost.png){.hidden}
 
 ---
 level: 2
