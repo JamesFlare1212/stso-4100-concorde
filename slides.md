@@ -37,13 +37,24 @@ level: 1
 # Before the Story
 
 ---
+layout: image-right
+image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/Chuck-Yeager-aircraft-person-Bell-X-1-sound-October-14-1947.webp
+transition: slide-up
+level: 2
+---
+
+# The Cold War
+
+- 50 years after World War II, the United States vs the Soviet Union
+- Two major breakthroughs: high-speed jet aircraft and the intercontinental ballistic missile (ICBM)
+- Chuck Yeager’s Bell X-1 achieved the first supersonic flight in October 1947
+
+---
 level: 2
 transition: slide-up
 ---
 
 # 1953
-
-## Why we start the supersonic transportation?
 
 After the breaking of sonic speed on
 
@@ -51,12 +62,6 @@ After the breaking of sonic speed on
 - MiG-19
 
 People see the potential of commercial supersonic airline.
-
----
-layout: image
-image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/speed-vs-revenue-and-cost.png
-transition: slide-up
----
 
 ---
 level: 2
@@ -351,7 +356,7 @@ image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/Concorde_Gett
 ---
 layout: image-right
 level: 2
-transition: slide-up
+transition: slide-left
 image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/1200x675_cmsv2_02c8488a-2afb-5b56-8a5e-61118f3c5255-8600560.webp
 ---
 
@@ -362,8 +367,28 @@ image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/1200x675_cmsv
 - Financial failure
 
 ---
+layout: two-cols
+level: 1
+transition: slide-up
+title: Redesign
+---
+
+# Technical Redesign
+
+* Improving Materials
+* Addressing the Fuel Tank
+
+::right::
+
+# Non-Technical Redesign
+
+* Many aeronautical organizations tend to cut corners which lead to disaster
+* Inclusivity: if we can’t safely operate it, no innovation matters
+
+---
 layout: statement
 transition: fade
+hideInToc: true
 ---
 
 # Technological breakthroughs must resonate with the needs of the era
