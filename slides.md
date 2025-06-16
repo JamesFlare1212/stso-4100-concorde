@@ -97,7 +97,7 @@ Flight operations = Fuel + Workers Payout
 
 ---
 level: 2
-transition: slide-up
+transition: slide-left
 ---
 
 # American SST Concepts
@@ -170,7 +170,7 @@ transition: slide-up
 ---
 layout: two-cols
 level: 2
-transition: slide-up
+transition: slide-left
 layoutClass: gap-16
 title: Technical Highlights/Failures
 ---
@@ -235,7 +235,7 @@ transition: slide-up
 
 ---
 level: 2
-transition: slide-up
+transition: slide-left
 ---
 
 # The "Invisible Barrier" of Society and Culture
@@ -252,7 +252,7 @@ transition: slide-up
 # Risk Assessment and the Safety Dilemma
 
 ---
-level: 1
+level: 2
 hideInToc: true
 transition: slide-up
 ---
@@ -288,7 +288,7 @@ graph TD
 
 ---
 level: 2
-transition: slide-up
+transition: slide-left
 ---
 
 # Risk Response Strategies
@@ -303,7 +303,7 @@ level: 1
 transition: slide-up
 ---
 
-# The Battlefield of Stakeholders
+# Stakeholders
 
 ---
 level: 1
@@ -311,68 +311,55 @@ hideInToc: true
 transition: slide-up
 ---
 
-* Engineers vs. Physical Limits
-* Governments vs. Economic Reality
-* Airlines vs. Operating Costs
-* Public vs. Environmental Impact
-* History vs. Future Possibilities
+* Governments and Political Forces
+* Airlines
+* Environmentalists and Economists
 
 ---
 level: 2
 transition: slide-up
 ---
 
-# Stakeholder Conflicts
+# Governments and Political Forces
 
-```mermaid
-pie
-    title Key Conflicts
-    "Technology vs. Cost" : 35
-    "Speed vs. Safety" : 25
-    "Prestige vs. Profit" : 20
-    "Innovation vs. Regulation" : 20
-```
+### Pros
+- National pride and technological advancement
+- Competition in supersonic aviation
+- Establish leadership in the field.
 
----
-layout: section
-level: 1
-transition: slide-up
----
-
-# Lessons from History and Future Prospects
+### Cons
+- Massive cost overruns
+- Financial pressure on both governments
 
 ---
+layout: image-right
 level: 2
 transition: slide-up
+image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/Concorde_GettyImages-2641228.webp
 ---
 
-# Common Reasons for Failure
+# Airlines
 
-- Economic Unsustainability
-- Imbalance Between Technology and Cost
-- Political Overreach
+### Pros
+- Unique, high-speed transatlantic flights
+- Niche market of wealthy travelers
+
+### Cons
+- High operating costs, including fuel consumption and maintenance
+- Limited route network
 
 ---
+layout: image-right
 level: 2
 transition: slide-up
+image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/1200x675_cmsv2_02c8488a-2afb-5b56-8a5e-61118f3c5255-8600560.webp
 ---
 
-# The Legacy of Success
+# Environmentalists and Economists
 
-- Advanced materials research
-- Aerodynamic breakthroughs
-- Safety standard improvements
-
----
-level: 2
-transition: slide-up
----
-
-# Future Possibilities
-
-- New energy technologies
-- Cost control through modular design
-- Revised regulatory frameworks
+### Cons
+- High-altitude emissions and the disruptive sonic booms
+- Financial failure
 
 ---
 layout: statement
