@@ -20,6 +20,8 @@ Peaks of Technology
 </div>
 
 ---
+layout: image-right
+image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/luca-bravo-SgtU7sK6oP4-unsplash.jpg
 transition: slide-left
 hideInToc: true
 ---
@@ -158,9 +160,13 @@ transition: slide-up
 * The "Tripartite" of Wings
 * The "Transformation" Philosophy of the Nose
 
+![](https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/Screenshot-2025-06-16-034732.png){width=680px}
+
 ---
+layout: two-cols
 level: 2
 transition: slide-up
+layoutClass: gap-16
 ---
 
 # The "Dynamic Balance" of Mechanical Systems
@@ -171,6 +177,10 @@ transition: slide-up
 * The "Patchwork Philosophy" of Engines
   *  Rolls-Royce designed a variable inlet for the Concorde
   *  this system required real-time computer control
+
+::right::
+
+![](https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/Concorde_fuel_trim.svg){width=240px}
 
 ---
 layout: two-cols
@@ -369,7 +379,7 @@ image: https://minio-lv-a.jamesflare.com/public/stso-4100-concorde/1200x675_cmsv
 ---
 layout: two-cols
 level: 1
-transition: slide-up
+transition: fade
 title: Redesign
 ---
 
@@ -395,7 +405,6 @@ hideInToc: true
 
 ---
 layout: end
-transition: fade
 title: Q&A
 ---
 
